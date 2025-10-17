@@ -1,13 +1,15 @@
 // 1
 
+//int[] arr = new int[5];
 //int cem = 0;
-//for(int i = 0;i < 5; i++)
+//for (int i = 0; i < 5; i++)
 //{
-//   int num = int.Parse(Console.ReadLine());
-//  int[] arr = new int[5];
-//   arr[i] = num;
-//   cem += arr[i];
+//    int num = int.Parse(Console.ReadLine());
+//    arr[i] = num;
+//    cem += arr[i];
 //}
+//Console.WriteLine(cem);
+
 
 //Console.WriteLine(cem);
 
@@ -19,7 +21,7 @@
 
 // 3
 
-//int[] array = {12 , 133, 90, -184 };
+//int[] array = {12 , 133, 90 };
 
 //for(int i = 0;i < array.Length;i++)
 //{
@@ -111,14 +113,15 @@
 // 8
 
 //int[] array1 = { 12, -184, 90, -184, 12 };
-//int cem = 0;
+//float cem = 0;
 
 //for (int i = 0; i < array1.Length; i++)
 //{
 //    cem += array1[i];
 //}
 
-//Console.WriteLine(cem/array1.Length);
+//Console.WriteLine(cem / array1.Length);
+
 
 // 9
 
@@ -136,4 +139,3 @@
 //    array2[i] = array1[1];
 //    Console.WriteLine(array1[i]);
 //}
-
