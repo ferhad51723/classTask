@@ -1,7 +1,5 @@
 // 1
 
-using System.Reflection;
-
 class Human
 {
     public string name;
